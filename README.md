@@ -17,7 +17,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### API Docs
+### API Docs (Deployed here https://know-your-project-backend.herokuapp.com/)
 
 1. User Sign Up
 
